@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lifescienceconsultants.github.io/life-sciences-market-update-2026/sitemap.xml
